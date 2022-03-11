@@ -116,3 +116,5 @@ C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\bin\Debug\net5.0\runti
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Components\Articles\_Articles.cshtml.g.cs
+C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
