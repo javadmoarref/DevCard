@@ -114,3 +114,4 @@ C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\bin\Debug\net5.0\zh-Ha
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\JAVAD\Desktop\VS\ASP.Net\DevCard\DevCard_Project\obj\Debug\net5.0\Razor\Views\Home\Project.cshtml.g.cs
