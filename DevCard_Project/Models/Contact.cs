@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DevCard_Project.Models
 {
@@ -15,7 +12,8 @@ namespace DevCard_Project.Models
         [EmailAddress(ErrorMessage = "مقدار وارد شده صحیح نمیباشد")]
         [Required(ErrorMessage = "وارد کردن این فیلد اجباری است")]
         public string Email { get; set; }
-        public string Service { get; set; }
+        public int Service { get; set; }
         public string Message { get; set; }
+        public SelectList Services { get; set; }
     }
 }
